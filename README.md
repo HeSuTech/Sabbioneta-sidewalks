@@ -10,7 +10,7 @@ The thesis, entitled "POINT CLOUD PROCESSING FOR PHYSICAL ACCESSIBILITY EVALUATI
 
 The computation of the sidewalks parameters was done following a semi-automatic approach, for some attributes a limit value was set. To computed attributes exceeding the threshold, a NULL value was set. The shapefile attributes are described in the following table:
 
-| Attribute | Type | Description | Notes !
+| Attribute | Type | Description | Notes |
 |-----|---|---|---|
 |ID|double|consecutive numbering|some numbers are missing|
 |material|Qstring|material used for the paved surface of sidewalk|manually inserted, after on-site check|
