@@ -10,9 +10,9 @@ The thesis, entitled "POINT CLOUD PROCESSING FOR PHYSICAL ACCESSIBILITY EVALUATI
 
 The shapefile attributes are described in the following table:
 
-- prova
-- non
-
+|-----|---|---|
+| Attribute | Type | Description |
+|-----|---|---|
 
 More information can be found in the following scientific articles:
 
