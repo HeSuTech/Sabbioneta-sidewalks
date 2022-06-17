@@ -19,7 +19,7 @@ The computation of the sidewalks parameters was done following a semi-automatic 
 |LongSlope|double|slope of the sidewalk in longitudinal direction respect road local direction|from computation|
 |Zdiff|double|difference in elevation between road and sidewalk, if present|from computation|
 |manual_add|int|if "1" means that the line was manually inserted| if manually inserted, the attributes are empty|
-computed|if "1" means that the line was automatically inserted|if automatically inserted, the attributes were computed and stored within the line|
+computed|int|if "1" means that the line was automatically inserted|if automatically inserted, the attributes were computed and stored within the line|
 
 
 
